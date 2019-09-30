@@ -1,0 +1,48 @@
+body{
+    background-color: orange;
+    font-family: comic sans ms;
+}
+
+.keret{
+    width: 960px;
+    background-color: cornsilk;
+    margin: auto;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+    font-family: comic sans ms;
+    border-bottom: 10px double orange;
+}
+
+h2{
+    font-family: comic sans ms;
+    border-bottom: 2px solid orange;
+    width: 50%;
+    border-top: 2px solid orange;
+    padding: 5px 0;
+}
+
+p{
+    text-indent: 30px;
+    text-align: justify;
+}
+
+img{
+    float: right;
+    width: 200px;
+    border: 2px solid orange;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+ul{
+    text-align: justify;
+    margin-left: 70px;
+}
+
+footer{
+    margin-left: 170px;
+    margin-top: 10px;
+}
